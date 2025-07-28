@@ -80,17 +80,15 @@ Feature importances from Random Forest:
 ## 📊 Model Evaluation Metrics
 Linear Regression Evaluation:
 
-(assets/Lr_evaluation.png)
+![Linear_Regression_Evaluation](assets/Lr_evaluation.png)
 
 Random Forest Evaluation:
 
-(assets/rf_evaluation.png)
-
-> 📌 *Actual values are printed during execution and visualized with bar charts and scatter plots.*
+![RandomForestEvaluation](assets/rf_evaluation.png)
 
 ---
 
-## 📉 Visualization Samples
+## 📉 Visualization & Comparisons Between Models
 
 ### 🔵 Linear Regression: Actual vs Predicted
 
